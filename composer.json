@@ -1,9 +1,7 @@
 {
   "name": "ayoub/upload-files-package",
   "description": "upload-file is a lightweight PHP package designed to simplify file upload handling in web applications",
-  "require": {
-    "php": ">=8.0"
-  },
+
   "autoload": {
     "psr-4": {
       "MyUploadPackage\\": "src/"
